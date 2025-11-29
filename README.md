@@ -1,2 +1,1 @@
-# relatorio-gerencial-de-vendas
-Relatório Gerencial de Vendas com Power BI
+# Relatório Gerencial de Vendas com Power BI
